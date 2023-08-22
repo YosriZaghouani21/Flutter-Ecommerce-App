@@ -3,13 +3,15 @@ import 'package:adress_book_app/features/account/screens/account_screen.dart';
 import 'package:adress_book_app/features/cart/screens/cart_screen.dart';
 import 'package:adress_book_app/features/home/screens/home_screen.dart';
 import 'package:adress_book_app/providers/user_provider.dart';
-import 'package:badges/badges.dart';
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 class BottomBar extends StatefulWidget {
   static const String routeName = 'actual-home';
-  const BottomBar({super.key});
+
+  // Remove the "const" keyword from the constructor
+  BottomBar({Key? key}) : super(key: key);
 
   @override
   State<BottomBar> createState() => _BottomBarState();
@@ -94,7 +96,7 @@ class _BottomBarState extends State<BottomBar> {
               ),
               child: Material(
                 color: Colors.white,
-                child: Badge(
+                child: badges.Badge(
                   badgeContent: Text(userCartLen.toString()),
                   child: const Icon(Icons.shopping_cart_outlined),
                 ),

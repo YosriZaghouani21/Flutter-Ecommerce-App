@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String url = 'https://flutter-eclone-a1657bc6941a.herokuapp.com';
+String url = 'http://192.168.1.42:3000';
 
 class GlobalVariables {
   // COLORS

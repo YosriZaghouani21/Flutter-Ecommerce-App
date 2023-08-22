@@ -31,7 +31,7 @@ Route<dynamic> generateRoute(RouteSettings routeSettings) {
     case BottomBar.routeName:
       return MaterialPageRoute(
         settings: routeSettings,
-        builder: (_) => const BottomBar(),
+        builder: (_) => BottomBar(),
       );
 
     case AddProductScreen.routeName:

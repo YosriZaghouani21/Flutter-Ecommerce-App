@@ -47,8 +47,11 @@ class _DealOfDayState extends State<DealOfDay> {
                       alignment: Alignment.topLeft,
                       padding: const EdgeInsets.only(left: 10, top: 15),
                       child: const Text(
-                        'Deal of the day',
-                        style: TextStyle(fontSize: 20),
+                        'Deal of the Day',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.bold,
+                        ),
                       ),
                     ),
                     Image.network(
@@ -63,6 +66,7 @@ class _DealOfDayState extends State<DealOfDay> {
                         '\$100',
                         style: TextStyle(
                           fontSize: 18,
+                          fontWeight: FontWeight.bold,
                         ),
                       ),
                     ),
@@ -70,11 +74,11 @@ class _DealOfDayState extends State<DealOfDay> {
                       alignment: Alignment.topLeft,
                       padding:
                           const EdgeInsets.only(left: 15, top: 5, right: 40),
-                      child: const Text(
-                        'Yosri',
-                        maxLines: 2,
-                        overflow: TextOverflow.ellipsis,
-                      ),
+                      // child: const Text(
+                      //   'Yosri',
+                      //   maxLines: 2,
+                      //   overflow: TextOverflow.ellipsis,
+                      // ),
                     ),
                     SingleChildScrollView(
                       scrollDirection: Axis.horizontal,
