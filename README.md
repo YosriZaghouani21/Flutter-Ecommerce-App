@@ -44,13 +44,9 @@ The Flutter Amazon Clone app is a learning project and a demonstration of Flutte
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="/assets/images/App-Gif.gif" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
-
+    hspace="10" vspace="10">]
 ## Permissions
 
 The Flutter Amazon Clone app respects your privacy and requires the following permissions on Android versions prior to Android 6.0:
