@@ -1,4 +1,4 @@
-#  - Flutter app!
+#  - Flutter app (AMAZON CLONE) -
 
 
 
@@ -39,7 +39,10 @@ The Flutter Amazon Clone app is a learning project and a demonstration of Flutte
 
 ## Screenshots
 
-![App GIF](assets/images/App-GIF.gif)
+<p align="center">
+  <img src="assets/images/App-GIF.gif" width="200" hspace="10" vspace="10">
+</p>
+
 
 
     
