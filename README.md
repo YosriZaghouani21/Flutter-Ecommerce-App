@@ -1,7 +1,6 @@
 #  - Flutter app![Build status]([https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master](https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png)
 
-<img src="/readme/wallabag logo.png" align="left"
-width="200" hspace="10" vspace="10">
+
 
 This app was created by Yosri Zaghouani .
 
@@ -13,11 +12,7 @@ Please note that this app is for educational purposes and doesn't replace the of
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
-<a href="https://f-droid.org/app/fr.gaulupeau.apps.InThePoche">
-    <img alt="Get it on F-Droid"
-        height="80"
-        src="https://f-droid.org/badge/get-it-on.png" />
-        </a>
+
         </p>
 
 ## About
