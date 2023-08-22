@@ -1,4 +1,4 @@
-#  - Flutter app![Build status]([https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master](https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png)
+#  - Flutter app!
 
 
 
