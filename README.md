@@ -13,7 +13,7 @@ Please note that this app is for educational purposes and doesn't replace the of
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
 
-        </p>
+       
 
 ## About
 
@@ -39,9 +39,8 @@ The Flutter Amazon Clone app is a learning project and a demonstration of Flutte
 
 ## Screenshots
 
-[<img src="assets/images/App-GIF.gif" align="center"
-width="200"
-    hspace="10" vspace="10">]
+![App GIF](assets/images/App-GIF.gif)
+
 
     
 ## Permissions
